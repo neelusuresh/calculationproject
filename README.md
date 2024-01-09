@@ -13,3 +13,5 @@ second output
 3 ouput for table
 
 ![2024-01-09 (11)](https://github.com/neelusuresh/calculationproject/assets/107986986/cfee3d02-58b4-411f-8b34-16d5d01653fa)
+entering details in input menu
+![2024-01-09 (12)](https://github.com/neelusuresh/calculationproject/assets/107986986/f1127f1c-b6e2-4edb-8520-e2a69fed4c36)
